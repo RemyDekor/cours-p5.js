@@ -1,1 +1,2 @@
-cours-p5.js
+# cours-p5.js
+Initation au creative coding avec p5.js
