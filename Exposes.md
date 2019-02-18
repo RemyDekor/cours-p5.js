@@ -1,4 +1,4 @@
-Travail en groupe de 3 personnes, pour le lundi 4 mars.  
+Travail en groupe de 3 personnes, pour le **lundi 11 mars**.  
 Choisissez un concept technique parmi :
 
 - Le bruit de Perlin (Perlin noise) :  
