@@ -14,7 +14,7 @@ Choisissez un concept technique parmi :
   Thomas, William, Sarah
 
 - Les champs de vecteurs (vector fields) :  
-  --- Personne n'a choisi ce sujet (les groupes sont fixes) ---
+  --- Personne n'a choisi ce sujet ---
 
 - Les fractales et la récursion (fractals and recursive functions) :  
   Paolo, Achille, Florian
